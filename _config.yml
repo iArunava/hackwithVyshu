@@ -1,0 +1,49 @@
+### Site metadata
+
+# Don't make the title longer than this, otherwise it gets covered in mobile view.
+title: hackwithVyshu
+description: Security blog about the latest vulnerabilities, exploits, how-tos, breaches and everything security.
+
+email:
+twitter_username:
+github_username: MichaelCurrin
+rss: RSS
+
+### Build settings
+
+url: https://michaelcurrin.github.io
+baseurl: /jekyll-blog-demo
+
+permalink: pretty
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+collections:
+  tools:
+    output: true
+  languages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+exclude:
+  - docs/
+  - vendor/
+  - Gemfile # Gemfile.lock is implied because of how matching works.
+  - LICENSE
+  - Makefile
+  - README.md
+  - sample*.png
+
+liquid:
+  error_mode: strict
+
+strict_front_matter: true
