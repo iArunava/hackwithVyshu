@@ -1,5 +1,5 @@
-# Jekyll Blog Demo 🧪 📝 🚀
-> Starter for a static website or blog - built with Jekyll, a minimal theme and GH Pages
+# hackwithVyshu Security Blog 🧪 📝 🚀
+> Security Blog
 
 <!-- Badges generated with https://github.com/MichaelCurrin/badge-generator -->
 
@@ -54,4 +54,4 @@ Then customize the config with your own `url` and `baseurl` values. And follow d
 
 ## License
 
-Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
+Released under [MIT](/LICENSE)
