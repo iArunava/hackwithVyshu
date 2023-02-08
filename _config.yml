@@ -11,8 +11,8 @@ rss: RSS
 
 ### Build settings
 
-url: https://michaelcurrin.github.io
-baseurl: /jekyll-blog-demo
+url: https://iarunava.github.io
+baseurl: /hackwithVyshu
 
 permalink: pretty
 

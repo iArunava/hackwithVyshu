@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/jekyll-blog-demo/languages/html/</loc>
-<lastmod>2023-02-08T12:57:27+05:30</lastmod>
+<lastmod>2023-02-08T13:13:06+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/jekyll-blog-demo/languages/liquid/</loc>
-<lastmod>2023-02-08T12:57:27+05:30</lastmod>
+<lastmod>2023-02-08T13:13:06+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/jekyll-blog-demo/languages/markdown/</loc>
-<lastmod>2023-02-08T12:57:27+05:30</lastmod>
+<lastmod>2023-02-08T13:13:06+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/jekyll-blog-demo/jekyll/update/2018/12/18/welcome-to-jekyll/</loc>
@@ -22,15 +22,15 @@
 </url>
 <url>
 <loc>http://localhost:4000/jekyll-blog-demo/tools/github-pages/</loc>
-<lastmod>2023-02-08T12:57:27+05:30</lastmod>
+<lastmod>2023-02-08T13:13:06+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/jekyll-blog-demo/tools/jekyll/</loc>
-<lastmod>2023-02-08T12:57:27+05:30</lastmod>
+<lastmod>2023-02-08T13:13:06+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/jekyll-blog-demo/tools/ruby/</loc>
-<lastmod>2023-02-08T12:57:27+05:30</lastmod>
+<lastmod>2023-02-08T13:13:06+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/jekyll-blog-demo/about/</loc>

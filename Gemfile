@@ -8,6 +8,7 @@ gem "minima", "~> 2.5.1"
 
 group :jekyll_plugins do
   gem "jekyll-sitemap", "~> 1.4"
+  gem "github-pages", "~> 228"
 end
 
 # Windows
